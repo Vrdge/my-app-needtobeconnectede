@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://github.com/Vrdge/my-app-needtobeconnectede",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
@@ -29,6 +30,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -50,6 +53,7 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/react": "^14.0.0"
+    "@testing-library/react": "^14.0.0",
+    "gh-pages": "^5.0.0"
   }
 }
