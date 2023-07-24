@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Vrdge/my-app-needtobeconnectede/static/css/main.1f2e8b80.css",
-    "main.js": "/Vrdge/my-app-needtobeconnectede/static/js/main.2705e534.js",
-    "static/css/661.e38b5af7.chunk.css": "/Vrdge/my-app-needtobeconnectede/static/css/661.e38b5af7.chunk.css",
-    "static/js/661.78040c3c.chunk.js": "/Vrdge/my-app-needtobeconnectede/static/js/661.78040c3c.chunk.js",
-    "static/css/512.55288eff.chunk.css": "/Vrdge/my-app-needtobeconnectede/static/css/512.55288eff.chunk.css",
-    "static/js/512.02ef0117.chunk.js": "/Vrdge/my-app-needtobeconnectede/static/js/512.02ef0117.chunk.js",
-    "static/css/351.cc853e3a.chunk.css": "/Vrdge/my-app-needtobeconnectede/static/css/351.cc853e3a.chunk.css",
-    "static/js/351.c0ec09df.chunk.js": "/Vrdge/my-app-needtobeconnectede/static/js/351.c0ec09df.chunk.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Vrdge/my-app-needtobeconnectede/static/js/787.28cb0dcd.chunk.js",
-    "static/media/826.gif": "/Vrdge/my-app-needtobeconnectede/static/media/826.57a8159b7436d1641c90.gif",
-    "index.html": "/Vrdge/my-app-needtobeconnectede/index.html",
-    "main.1f2e8b80.css.map": "/Vrdge/my-app-needtobeconnectede/static/css/main.1f2e8b80.css.map",
-    "main.2705e534.js.map": "/Vrdge/my-app-needtobeconnectede/static/js/main.2705e534.js.map",
-    "661.e38b5af7.chunk.css.map": "/Vrdge/my-app-needtobeconnectede/static/css/661.e38b5af7.chunk.css.map",
-    "661.78040c3c.chunk.js.map": "/Vrdge/my-app-needtobeconnectede/static/js/661.78040c3c.chunk.js.map",
-    "512.55288eff.chunk.css.map": "/Vrdge/my-app-needtobeconnectede/static/css/512.55288eff.chunk.css.map",
-    "512.02ef0117.chunk.js.map": "/Vrdge/my-app-needtobeconnectede/static/js/512.02ef0117.chunk.js.map",
-    "351.cc853e3a.chunk.css.map": "/Vrdge/my-app-needtobeconnectede/static/css/351.cc853e3a.chunk.css.map",
-    "351.c0ec09df.chunk.js.map": "/Vrdge/my-app-needtobeconnectede/static/js/351.c0ec09df.chunk.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Vrdge/my-app-needtobeconnectede/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/my-app-needtobeconnected/static/css/main.1f2e8b80.css",
+    "main.js": "/my-app-needtobeconnected/static/js/main.8fbf2870.js",
+    "static/css/661.e38b5af7.chunk.css": "/my-app-needtobeconnected/static/css/661.e38b5af7.chunk.css",
+    "static/js/661.78040c3c.chunk.js": "/my-app-needtobeconnected/static/js/661.78040c3c.chunk.js",
+    "static/css/512.55288eff.chunk.css": "/my-app-needtobeconnected/static/css/512.55288eff.chunk.css",
+    "static/js/512.02ef0117.chunk.js": "/my-app-needtobeconnected/static/js/512.02ef0117.chunk.js",
+    "static/css/351.cc853e3a.chunk.css": "/my-app-needtobeconnected/static/css/351.cc853e3a.chunk.css",
+    "static/js/351.c0ec09df.chunk.js": "/my-app-needtobeconnected/static/js/351.c0ec09df.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app-needtobeconnected/static/js/787.28cb0dcd.chunk.js",
+    "static/media/826.gif": "/my-app-needtobeconnected/static/media/826.57a8159b7436d1641c90.gif",
+    "index.html": "/my-app-needtobeconnected/index.html",
+    "main.1f2e8b80.css.map": "/my-app-needtobeconnected/static/css/main.1f2e8b80.css.map",
+    "main.8fbf2870.js.map": "/my-app-needtobeconnected/static/js/main.8fbf2870.js.map",
+    "661.e38b5af7.chunk.css.map": "/my-app-needtobeconnected/static/css/661.e38b5af7.chunk.css.map",
+    "661.78040c3c.chunk.js.map": "/my-app-needtobeconnected/static/js/661.78040c3c.chunk.js.map",
+    "512.55288eff.chunk.css.map": "/my-app-needtobeconnected/static/css/512.55288eff.chunk.css.map",
+    "512.02ef0117.chunk.js.map": "/my-app-needtobeconnected/static/js/512.02ef0117.chunk.js.map",
+    "351.cc853e3a.chunk.css.map": "/my-app-needtobeconnected/static/css/351.cc853e3a.chunk.css.map",
+    "351.c0ec09df.chunk.js.map": "/my-app-needtobeconnected/static/js/351.c0ec09df.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app-needtobeconnected/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f2e8b80.css",
-    "static/js/main.2705e534.js"
+    "static/js/main.8fbf2870.js"
   ]
 }
