@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://vrdge.github.io/my-app-needtobeconnected/",
+  "homepage": "https://github.com/Vrdge/my-app-needtobeconnectede.git",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
