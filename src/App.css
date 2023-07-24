@@ -1,0 +1,16 @@
+
+.app_wrapper { 
+display:flex;
+flex-direction:row;
+height: 100vh;
+background-color: rgb(0, 0, 0);
+
+ 
+}
+.app_wrapper_content{
+    width: 100%;
+}
+.glglglgl{
+    width: 400px;
+    height: 400px;
+}

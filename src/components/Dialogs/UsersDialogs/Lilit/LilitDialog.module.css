@@ -1,0 +1,19 @@
+
+.MessagesWrapper{
+    width: 100%;
+    height: 100%;
+}
+.Messages{
+    width: 100%;
+    height: 90%;
+}
+.input{
+    height: 10%;
+    display: flex;
+}
+.input> input{
+    width: 90%;
+}
+.input> button{
+    width: 10%;
+}
